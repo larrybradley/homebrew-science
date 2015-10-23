@@ -1,6 +1,7 @@
 require "formula"
 
 class Wcstools < Formula
+  desc "Tools for using World Coordinate Systems (WCS) in astronomical images"
   homepage "http://tdc-www.harvard.edu/wcstools/"
   url "http://tdc-www.harvard.edu/software/wcstools/wcstools-3.9.2.tar.gz"
   sha256 "481fe357cf755426fb8e25f4f890e827cce5de657a4e5044d4e31ce27bef1c8b"
